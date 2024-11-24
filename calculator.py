@@ -1,5 +1,5 @@
 
-primer = input("Введи пример:")
+primer = input("Введи пример1:")
 
 
 def calculator(primer: str) -> int:
